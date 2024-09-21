@@ -1,4 +1,4 @@
-- 👋Hi there  , I'm Himanshu Jain 💻! Glad to see you here!
+- 👋Hi there  , I'm Ayush Sharma 💻! Glad to see you here!
 Full-Stack Web Developer with skills in frontend Devlopment.
 As a Full stack developer, I have experience in designing and developing scalable, secure, and reliable web applications. Proficient in Javascript, Mongodb, Node.js, and Express.js, I am skilled in developing and maintaining server-side logic and RESTful APIs. I am dedicated to delivering high-quality code and collaborating effectively with cross-functional teams to meet project goals.
 
