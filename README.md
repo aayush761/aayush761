@@ -10,7 +10,7 @@ As a Full stack developer, I have experience in designing and developing scalabl
 
 💬 Ask me about Core Javascript, Html, CSS , Node.js , Express.js ,Mongodb
 
-📫 How to reach me himanshu.masai@gmail.com
+📫 How to reach me ayushsharma7900@gmail.com
 
 📄 Know about my experiences Resume
 
