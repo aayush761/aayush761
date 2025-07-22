@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Himanshu Jain 💻! Glad to see you here!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Ayush Sharma 💻! Glad to see you here!
 </h2>
 <h3 align="center"> Full-Stack Web Developer with skills in Node js Backend Devlopment.</h3>
 
