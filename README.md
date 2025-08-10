@@ -21,7 +21,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="" rel="nofollow">Portfolio</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Core Javascript, Html, CSS , Node.js , Express.js ,Mongodb</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Core Javascript, Html, CSS , React.js , Express.js ,Mongodb</strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:himanshu.masai@gmail.com">ayushsharma7900@gmail.com</a></strong></p>
@@ -95,7 +95,7 @@
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Himanshu Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshuj0311&theme=react-dark" /></a>
+  <a><img alt="Ayush Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshuj0311&theme=react-dark" /></a>
 
 <br> 
 <div align="center">
