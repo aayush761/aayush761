@@ -73,51 +73,5 @@ Throughout my career, I have had the privilege of collaborating with prestigious
  </p>
 
 
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw23-0277" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=dark" style="max-width: 100%;"></a></p>
-
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21_0853" src="https://github-readme-stats.vercel.app/api?username=Himanshuj0311&amp;show_icons=true&amp;locale=en&amp;theme=dark" style="max-width: 100%;"></a></p>
-
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=""><img align="center" alt="fw21_0853" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuj0311&amp;theme=dark" style="max-width: 100%;"></a></p>
- 
-</a></p>
-<div align="center" dir="auto">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Himanshuj0311&amp;theme=darkhub&amp;margin-w=15" alt="GitHub Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Himanshuj0311&amp;theme=darkhub&amp;margin-w=15" style="max-width: 100%;">
-  </a>
-</div>
 
 
-</div>
-<div align="center" style="display: flex; ">
- 
-<img src="https://streak-stats.demolab.com?user=Himanshuj0311&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
-
-</div>
-
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ayush Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshuj0311&theme=react-dark" /></a>
-
-<br> 
-<div align="center">
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Himanshuj0311}/count.svg" /></p> 
-<br>
-</div>
-<h2 dir="auto"></h2><h3 align="Center" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>CONNECT WITH ME</h3>
-<p align="left" dir="auto">
-</p><div align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/himanshu-jain-b14b53246?original_referer=https%3A%2F%2Fwww.google.com%2F" rel="nofollow">
-        <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGlua2VkaW58ZW58MHx8MHx8fDA%3D" alt="LinkedIn" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width: 100%;">
-    </a>
-    <a href="https://twitter.com/@himansh17794519" rel="nofollow">
-        <img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Twitter" height="30" width="30" data-canonical-src="https://img.icons8.com/color/48/000000/twitter.png" style="max-width: 100%;">
-    </a>
-<!--   <a href="https://himanshuj0311.github.io/" rel="nofollow">
-        <img src="[https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937](https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1721001600&semt=ais_user)" alt="Twitter" height="30" width="100" data-canonical-src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937"  width="300">
-    </a> -->
-</div>
-</article>
